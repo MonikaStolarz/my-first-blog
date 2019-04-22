@@ -25,7 +25,7 @@ SECRET_KEY = 'qf97e(b3wtpiu_da2wrgpusyt5ocpi-3*6y4dx$&h7x(xxf6r('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'www.oakvillebubble.com'g]
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'www.oakvillebubble.com']
 
 
 # Application definition
